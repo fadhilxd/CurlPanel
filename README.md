@@ -58,7 +58,7 @@
 
 ## ```Coffee ☕```
 
-- [`SAWERIA`](https://saweria.co/dilzxd)
+- [`SAWERIA`](https://saweria.co/dhilxd)
 
 ## ```Thanks To```
 
