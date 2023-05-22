@@ -1,8 +1,8 @@
-# ```Alphabot-Api```
+# ```FadhilXD-CuRl Panel```
 
 <p align="center">
 
-<a href="https://github.com/zeeoneofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofficial?color=red&style=flat-square"></a>
+<a href="https://github.com/fadhilxd/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofficolor=red&style=flat-square"></a>
 
 <a href="https://github.com/zeeoneofficial/my-rest-api/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofficial/my-rest-api?color=blue&style=flat-square"></a>
 
